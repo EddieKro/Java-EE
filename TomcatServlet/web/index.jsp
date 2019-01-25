@@ -11,6 +11,10 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <form action="Login" method="post">
+    Enter username: <input type="text" name="username"><br>
+    Enter password: <input type="password" name="password"><br>
+    <input type="submit" value="submit">
+  </form>
   </body>
 </html>
