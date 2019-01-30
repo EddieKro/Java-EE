@@ -1,6 +1,4 @@
-<%@ page import="java.util.List" %>
-<%@ page import="java.util.Iterator" %>
-<%@ page import="java.util.ArrayList" %><%--
+<%@ page import="java.util.List" %><%--
   Created by IntelliJ IDEA.
   User: alexa
   Date: 1/30/2019
